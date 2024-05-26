@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f308e573-72dd-436f-a001-78e79ee414d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Sign In&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Sign In']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sign In Sign In&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e21a3a4c-df60-46d9-ab12-9fd8d7ae0388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>be41e828-0b06-451b-9eb5-6cc8e1c87036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>a2329872-98c2-4da4-a3a0-6eaec91c0b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.lteplatform.com/images/ecp/new/user-icon.svg</value>
+      <webElementGuid>15412245-debd-4a0f-88cb-6d7de0e8d731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>e476990b-6c3e-4e53-8640-848e138679f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>9752991e-6597-47ab-bced-0b9c389124e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;saleCounter safari11&quot;]/section[@class=&quot;container-fluid&quot;]/header[@class=&quot;slide--reset&quot;]/section[@class=&quot;main-header&quot;]/div[@class=&quot;container container-new&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 right-grid&quot;]/ul[@class=&quot;right-col&quot;]/li[@class=&quot;third-col signin&quot;]/a[1]/img[1]</value>
+      <webElementGuid>615d6531-2c3f-4170-8556-23ee872846d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sign In']</value>
+      <webElementGuid>d2377686-5321-4f75-9ade-b7e4675c89c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/img</value>
+      <webElementGuid>05b2a574-ae12-4642-929c-c02225c4549e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images.lteplatform.com/images/ecp/new/user-icon.svg' and @alt = 'Sign In' and @title = 'Sign In']</value>
+      <webElementGuid>3a849482-088f-497c-aa21-1ab8f252a119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
