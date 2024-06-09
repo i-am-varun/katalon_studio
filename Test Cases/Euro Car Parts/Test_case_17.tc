@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that the user is able to add product to wishlist.</description>
+   <name>Test_case_17</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bef12ba-699c-40f6-bd46-bd21a498bf16</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the user navigation to homepage after entering correct URL.</description>
+   <name>Test_case_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2ccbd1b-4286-4905-a02d-7e481ae9c86d</testCaseGuid>
+</TestCaseEntity>

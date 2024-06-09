@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the user navigation to My Account section on clicking the My Account link in the header after sign in.</description>
+   <name>Test_case12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d6903db-00b2-4c2d-8a9b-bd4fc8528505</testCaseGuid>
+</TestCaseEntity>

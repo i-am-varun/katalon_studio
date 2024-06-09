@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that after clicking on the Add to Basket button the product is getting added to Basket.</description>
+   <name>Test_case_18</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad88b9c8-d277-43a0-9153-9efb59c718c3</testCaseGuid>
+</TestCaseEntity>

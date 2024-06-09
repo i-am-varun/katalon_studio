@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the user redirection to product listing page after clicking on any category link.</description>
+   <name>Test_case_16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e903ac0-462a-4645-b109-50fb048699da</testCaseGuid>
+</TestCaseEntity>
