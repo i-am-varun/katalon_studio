@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search suggestion functionality.</description>
+   <name>Test_case_7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71a4ff39-b467-4541-9ac6-53e606f2fec1</testCaseGuid>
+</TestCaseEntity>

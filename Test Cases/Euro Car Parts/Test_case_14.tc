@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the View My order button functionality</description>
+   <name>Test_case_14</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b0d0d2d-087e-462d-90e4-f204ebefe6b8</testCaseGuid>
+</TestCaseEntity>

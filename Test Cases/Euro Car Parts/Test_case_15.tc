@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Sign Out button functionality</description>
+   <name>Test_case_15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c89c162-97ce-4772-ba80-c364cdf36990</testCaseGuid>
+</TestCaseEntity>

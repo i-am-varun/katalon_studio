@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search functionality with Part number</description>
+   <name>Test_case_9</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a31dbe8-8133-4225-ac3b-c98fb36d4467</testCaseGuid>
+</TestCaseEntity>

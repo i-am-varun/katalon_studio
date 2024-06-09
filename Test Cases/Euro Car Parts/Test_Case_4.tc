@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Validate User will get Below Section on home page
+1. Top Trending
+2. Latest Offers
+3. Your recently viewed items (User should be able to add product from this section)
+4. Your recently viewed items
+5. What our customers think
+6. Why use anyone else?&quot;</description>
+   <name>Test_Case_4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31f896b4-597c-4fcd-a49a-4a82bf441519</testCaseGuid>
+</TestCaseEntity>
